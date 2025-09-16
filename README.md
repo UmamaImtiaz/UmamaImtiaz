@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umamaimtiaz" alt="umamaimtiaz" /></a> </p>
 
-- 🔭 I’m currently working on [[Smart Inventory Management System]– a full-stack MERN application with advanced dashboard and order management.](https://github.com/UmamaImtiaz/smart-inventory-management-system)
+- 🔭 I’m currently working on [Smart Inventory Management System]–(https://github.com/UmamaImtiaz/smart-inventory-management-system)
 
 - 🌱 I’m currently learning **- Next.js, TypeScript, and GraphQL - Cloud deployment using AWS and Docker**
 
