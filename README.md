@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umama Imtiaz</h1>
 <h3 align="center">Full-Stack Web Developer | Computer Science Graduate</h3>
 
-<img align="center" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyN2QzamwyanpncXUzMXViaWhkZm94OGVibTdsaHJtNWY0aGFhZjdnMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/200w.gif"> 
+<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyN2QzamwyanpncXUzMXViaWhkZm94OGVibTdsaHJtNWY0aGFhZjdnMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/200w.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umamaimtiaz&label=Profile%20views&color=0e75b6&style=flat" alt="umamaimtiaz" /> </p>
 
@@ -37,4 +37,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umamaimtiaz&show_icons=true&locale=en" alt="umamaimtiaz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umamaimtiaz&" alt="umamaimtiaz" /></p>
